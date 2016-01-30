@@ -14,11 +14,3 @@ rake spree_travel_sample:load PRODUCT_TYPE=hotels
 rake spree_travel_sample:load PRODUCT_TYPE=cars
 rake spree_travel_sample:load PRODUCT_TYPE=cruises
 rake spree_travel_sample:load PRODUCT_TYPE=tours
-
-
-
-
--revisa el fichero de CArt_form para que soporte tambien los productos nativos.
--el cambio de la configuracion del NO CART da palo pero se hace bien.
--ver si a los carros los detinos se ponene como contexto
--arreglar el autocompletameinto de destinos
